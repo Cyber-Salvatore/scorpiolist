@@ -49,12 +49,6 @@ this for cracking any hash
 
 *``` python spider_dcrypt.py 6fcea714d9e78f6aebeb89a755797952c4bac913 --min_length 4 --max_length 8 -w wordlist.txt --hash_type sha1```
 
-This script is a hashlib application that performs a Mass Attack hash o>
-The tool is intended to automate brutforce hash profiles by sending HTT>
-
-### script image
-
-<img src="./slva.png" alt="ig">
 ## Social media
 
 ```
